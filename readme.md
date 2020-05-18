@@ -1,13 +1,15 @@
-Запуск/остановка сервиса на сервере VPSSERVICE
+#VPSSERVER-GO-BOT
 
-Запуск: systemctl start gobot.service
-Остановка: systemctl stop gobot.service
+##Запуск/остановка сервиса на сервере VPSSERVICE
 
-Обновление в папке: /opt/projects/vpsserver-go-bot
-Команда обновления: git pull origin master
+###Запуск: systemctl start gobot.service
+###Остановка: systemctl stop gobot.service
 
-Команды бота:
-status - status bot
-gitpull - обновить исходники бота
-info - bot info
-help - помощь
+###Обновление в папке: /opt/projects/vpsserver-go-bot
+###Команда обновления: git pull origin master
+
+##Команды бота:
+###/status - status bot
+###/gitpull - обновить исходники бота
+###/info - bot info
+###/help - помощь
